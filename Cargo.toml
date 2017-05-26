@@ -1,0 +1,7 @@
+[package]
+name = "pancurses"
+version = "0.1.0"
+authors = ["Mikael Beyene <mikael.beyene@student.kit.edu>"]
+
+[dependencies]
+pancurses = "0.8"
