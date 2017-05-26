@@ -1,2 +1,2 @@
-# rust-pancurses-demo
+# Rust pancurses demo
 Example of rust with pancurses
